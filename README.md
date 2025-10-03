@@ -238,7 +238,8 @@ cd deep-learning-experiments
 
 # 2. Create virtual environment (recommended)
 python -m venv environment_name
-# On Windows: environment_name\Scripts\activate # On linux: source environment_name/bin/activate  
+# Activate virtual environment
+On Windows: environment_name\Scripts\activate # On linux: source environment_name/bin/activate  
 
 # 3. Install dependencies
 pip install tensorflow keras torch torchvision numpy pandas matplotlib seaborn scikit-learn jupyter
