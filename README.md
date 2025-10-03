@@ -237,14 +237,14 @@ git clone <repository-url>
 cd deep-learning-experiments
 
 # 2. Create virtual environment (recommended)
-python -m venv venv
-source venv/bin/activate  # On Windows: venv\Scripts\activate
+python -m venv environment_name
+# On Windows: environment_name\Scripts\activate # On linux: source environment_name/bin/activate  
 
 # 3. Install dependencies
 pip install tensorflow keras torch torchvision numpy pandas matplotlib seaborn scikit-learn jupyter
 
-# 4. Launch Jupyter Notebook
-jupyter notebook
+# 4. Launch VS code
+Open Exp Directory in vs code
 ```
 
 ### Running an Experiment
