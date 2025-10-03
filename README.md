@@ -224,8 +224,8 @@ Implement CNN with data augmentation strategies to improve model generalization.
 ### Prerequisites
 
 ```bash
-Python 3.8+
-Jupyter Notebook
+Python 12.0+
+VS code
 GPU (Optional, for faster training)
 ```
 
