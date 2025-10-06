@@ -96,6 +96,7 @@ Compare TensorFlow, Keras, and PyTorch by implementing linear regression. Analyz
 <a href="https://github.com/AnuragPandey19/Deep_Learning_Lab_AnuragPandey/tree/5e0d1a0a097734faa80b94b85675cb1f55ac9059/Exp_1">
   <img src="https://img.shields.io/badge/View%20Experiment-blue?style=for-the-badge" alt="View Experiment">
 </a>
+
 </td>
 <td width="50%">
 
@@ -114,6 +115,10 @@ Build neural network components from ground up without high-level libraries. Imp
 
 <a href="https://github.com/AnuragPandey19/Deep_Learning_Lab_AnuragPandey/tree/5e0d1a0a097734faa80b94b85675cb1f55ac9059/Exp_2">
   <img src="https://img.shields.io/badge/View%20Experiment-blue?style=for-the-badge" alt="View Experiment">
+</a>
+
+<a href="https://drive.google.com/drive/folders/1PRPo6JZAWP7wZE9x42g-rITogOJ4iJa1?usp=sharing">
+  <img src="https://img.shields.io/badge/Dataset-yellow?style=for-the-badge" alt="Dataset">
 </a>
 
 </td>
@@ -139,6 +144,10 @@ End-to-end classification pipeline using deep learning frameworks. Includes data
   <img src="https://img.shields.io/badge/View%20Experiment-blue?style=for-the-badge" alt="View Experiment">
 </a>
 
+<a href="https://drive.google.com/drive/folders/1WtaCZpUC-bYWaqQ-AeJuk8rV585b-eN3?usp=sharing">
+  <img src="https://img.shields.io/badge/Dataset-yellow?style=for-the-badge" alt="Dataset">
+</a>
+
 </td>
 <td width="50%">
 
@@ -157,6 +166,10 @@ Leverage pretrained models (ResNet, EfficientNet, MobileNet) for image classific
 
 <a href="https://github.com/AnuragPandey19/Deep_Learning_Lab_AnuragPandey/tree/5e0d1a0a097734faa80b94b85675cb1f55ac9059/EXP_4">
   <img src="https://img.shields.io/badge/View%20Experiment-blue?style=for-the-badge" alt="View Experiment">
+</a>
+
+<a href="https://drive.google.com/drive/folders/1ZRPzNDu4TT0QmMuVqVimSbuZNcoqmF6r?usp=sharing">
+  <img src="https://img.shields.io/badge/Dataset-yellow?style=for-the-badge" alt="Dataset">
 </a>
 
 </td>
@@ -182,6 +195,10 @@ Deep dive into training mechanisms. Visualize activation functions (Sigmoid, ReL
   <img src="https://img.shields.io/badge/View%20Experiment-blue?style=for-the-badge" alt="View Experiment">
 </a>
 
+<a href="https://drive.google.com/drive/folders/1l0Dgl9BMVMJ2oSvYD2hF4rFP3WyF56mO?usp=sharing">
+  <img src="https://img.shields.io/badge/Dataset-yellow?style=for-the-badge" alt="Dataset">
+</a>
+
 </td>
 <td width="50%">
 
@@ -202,6 +219,9 @@ Build and train MLP architectures with various configurations. Explore different
   <img src="https://img.shields.io/badge/View%20Experiment-blue?style=for-the-badge" alt="View Experiment">
 </a>
 
+<a href="https://drive.google.com/drive/folders/1OJVJI9EhmbpWOOJ09rJ9iM86czVhWeYq?usp=sharing">
+  <img src="https://img.shields.io/badge/Dataset-yellow?style=for-the-badge" alt="Dataset">
+</a>
 
 </td>
 </tr>
@@ -224,6 +244,9 @@ Implement CNN components from scratch. Visualize learned features through featur
   <img src="https://img.shields.io/badge/View%20Experiment-blue?style=for-the-badge" alt="View Experiment">
 </a>
 
+<a href="https://drive.google.com/drive/folders/12lgI-jkF1NcKeORpzobXUCjX8HMkZx9y?usp=sharing">
+  <img src="https://img.shields.io/badge/Dataset-yellow?style=for-the-badge" alt="Dataset">
+</a>
 
 </td>
 </tr>
@@ -246,6 +269,9 @@ Implement CNN with data augmentation strategies to improve model generalization.
   <img src="https://img.shields.io/badge/View%20Experiment-blue?style=for-the-badge" alt="View Experiment">
 </a>
 
+<a href="https://drive.google.com/drive/folders/187zwc3pvmfxq8_hoBUmVcsxa5u6CLb1W?usp=sharing">
+  <img src="https://img.shields.io/badge/Dataset-yellow?style=for-the-badge" alt="Dataset">
+</a>
 
 </td>
 </tr>
