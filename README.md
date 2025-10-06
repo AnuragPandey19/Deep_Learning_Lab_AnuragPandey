@@ -43,7 +43,7 @@ This repository contains hands-on implementations of deep learning concepts, cov
 ┃ ┣ 📓 experiment.ipynb
 ┃ ┣ 📂 datasets
 ┃ ┗ 📂 images
-┣ 📂 ![Exp_3] (https://github.com/AnuragPandey19/Deep_Learning_Lab_AnuragPandey/tree/cd08bdf348063db3b972d579d83a4d9e9f6f4a11/EXP_3)
+┣ 📂 [Exp_3]
 ┃ ┣ 📓 experiment.ipynb
 ┃ ┣ 📂 datasets
 ┃ ┗ 📂 images
@@ -93,6 +93,9 @@ Topics:
 
 Compare TensorFlow, Keras, and PyTorch by implementing linear regression. Analyze code verbosity, API design patterns, and debugging capabilities across frameworks.
 
+<a href="https://github.com/AnuragPandey19/Deep_Learning_Lab_AnuragPandey/tree/5e0d1a0a097734faa80b94b85675cb1f55ac9059/Exp_1">
+  <img src="https://img.shields.io/badge/View%20Experiment-blue?style=for-the-badge" alt="View Experiment">
+</a>
 </td>
 <td width="50%">
 
@@ -108,6 +111,10 @@ Topics:
 ```
 
 Build neural network components from ground up without high-level libraries. Implement forward propagation, backpropagation, and training mechanisms.
+
+<a href="https://github.com/AnuragPandey19/Deep_Learning_Lab_AnuragPandey/tree/5e0d1a0a097734faa80b94b85675cb1f55ac9059/Exp_2">
+  <img src="https://img.shields.io/badge/View%20Experiment-blue?style=for-the-badge" alt="View Experiment">
+</a>
 
 </td>
 </tr>
@@ -128,6 +135,10 @@ Topics:
 
 End-to-end classification pipeline using deep learning frameworks. Includes data normalization, model building, training curves, and confusion matrix analysis.
 
+<a href="https://github.com/AnuragPandey19/Deep_Learning_Lab_AnuragPandey/tree/5e0d1a0a097734faa80b94b85675cb1f55ac9059/EXP_3">
+  <img src="https://img.shields.io/badge/View%20Experiment-blue?style=for-the-badge" alt="View Experiment">
+</a>
+
 </td>
 <td width="50%">
 
@@ -143,6 +154,10 @@ Topics:
 ```
 
 Leverage pretrained models (ResNet, EfficientNet, MobileNet) for image classification. Implement both feature extraction and fine-tuning approaches.
+
+<a href="https://github.com/AnuragPandey19/Deep_Learning_Lab_AnuragPandey/tree/5e0d1a0a097734faa80b94b85675cb1f55ac9059/EXP_4">
+  <img src="https://img.shields.io/badge/View%20Experiment-blue?style=for-the-badge" alt="View Experiment">
+</a>
 
 </td>
 </tr>
@@ -163,6 +178,10 @@ Topics:
 
 Deep dive into training mechanisms. Visualize activation functions (Sigmoid, ReLU, Tanh, Softmax) and loss functions. Compare SGD, Momentum, and Adam optimizers.
 
+<a href="https://github.com/AnuragPandey19/Deep_Learning_Lab_AnuragPandey/tree/5e0d1a0a097734faa80b94b85675cb1f55ac9059/Exp_5">
+  <img src="https://img.shields.io/badge/View%20Experiment-blue?style=for-the-badge" alt="View Experiment">
+</a>
+
 </td>
 <td width="50%">
 
@@ -178,6 +197,11 @@ Topics:
 ```
 
 Build and train MLP architectures with various configurations. Explore different layer depths, neuron counts, and activation strategies.
+
+<a href="https://github.com/AnuragPandey19/Deep_Learning_Lab_AnuragPandey/tree/5e0d1a0a097734faa80b94b85675cb1f55ac9059/Exp_6">
+  <img src="https://img.shields.io/badge/View%20Experiment-blue?style=for-the-badge" alt="View Experiment">
+</a>
+
 
 </td>
 </tr>
@@ -196,6 +220,11 @@ Topics:
 
 Implement CNN components from scratch. Visualize learned features through feature maps and understand how convolution and pooling operations work.
 
+<a href="https://github.com/AnuragPandey19/Deep_Learning_Lab_AnuragPandey/tree/5e0d1a0a097734faa80b94b85675cb1f55ac9059/Exp_7">
+  <img src="https://img.shields.io/badge/View%20Experiment-blue?style=for-the-badge" alt="View Experiment">
+</a>
+
+
 </td>
 </tr>
 
@@ -212,6 +241,11 @@ Topics:
 ```
 
 Implement CNN with data augmentation strategies to improve model generalization. Apply various image transformations and analyze their impact on classification accuracy.
+
+<a href="https://github.com/AnuragPandey19/Deep_Learning_Lab_AnuragPandey/tree/5e0d1a0a097734faa80b94b85675cb1f55ac9059/Exp_8">
+  <img src="https://img.shields.io/badge/View%20Experiment-blue?style=for-the-badge" alt="View Experiment">
+</a>
+
 
 </td>
 </tr>
