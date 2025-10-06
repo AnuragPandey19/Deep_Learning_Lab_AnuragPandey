@@ -343,7 +343,7 @@ jupyter lab experiment.ipynb
 
 <div align="center">
 
-### 🌟 Star this repository if you find it helpful!
+### Thank You!
 
 **Anurag Pandey**
 
