@@ -43,7 +43,7 @@ This repository contains hands-on implementations of deep learning concepts, cov
 ┃ ┣ 📓 experiment.ipynb
 ┃ ┣ 📂 datasets
 ┃ ┗ 📂 images
-┣ 📂 Exp_3
+┣ 📂 ![Exp_3] (https://github.com/AnuragPandey19/Deep_Learning_Lab_AnuragPandey/tree/cd08bdf348063db3b972d579d83a4d9e9f6f4a11/EXP_3)
 ┃ ┣ 📓 experiment.ipynb
 ┃ ┣ 📂 datasets
 ┃ ┗ 📂 images
